@@ -1,13 +1,10 @@
 var BURN = index (B12, B8A);
-
-return colorBlend(
-  BURN,
-  0, 0.2, 0.8],
+return colorBlend(BURN,
+  [0, 0.2, 0.8],
   [
   [0, 0.3, 0.3],
   [1, 0, 0],
   [0, 0, 1],
     ]
   );
-  
   
